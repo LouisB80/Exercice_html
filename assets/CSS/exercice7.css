@@ -1,0 +1,47 @@
+#order {
+    display: flex;
+    flex-wrap: wrap;
+    height: 350px;
+    flex-direction: row;
+    /* justify-content: flex-end; */
+}
+.carré1:nth-child(1) {
+    background-color: green;
+    width: 80%;
+}
+.carré2:nth-child(2) {
+    background-color: blue;
+    width: 20%;
+}
+.carré3:nth-child(3) {
+    background-color: red;
+    width: 40%;
+}
+.carré4:nth-child(4) {
+    background-color: orange;
+    width: 30%;
+}
+.carré5:nth-child(5) {
+    background-color: grey;
+    width: 30%
+}
+.carré6:nth-child(6) {
+    background-color: red;
+    width: 40%;
+}
+.carré7:nth-child(7) {
+    background-color: orange;
+    width: 20%
+}
+.carré8:nth-child(8) {
+    background-color: green;
+    width: 20%
+}
+.carré9:nth-child(9) {
+    background-color: orange;
+    width: 20%
+}
+.carré10:nth-child(10) {
+    background-color: black;
+    width: 100%
+}

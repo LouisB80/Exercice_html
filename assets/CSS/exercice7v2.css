@@ -1,0 +1,48 @@
+div {
+  float: left;
+}
+#carré1 {
+  background-color: green;
+  width: 80%;
+  height: 40px;
+}
+#carré2 {
+  background-color: blue;
+  width: 20%;
+  height: 40px;
+}
+#carré3 {
+  background-color: red;
+  width: 40%;
+  height: 80px;
+}
+#carré4 {
+  background-color: orange;
+  width: 30%;
+  height: 40px;
+}
+#carré5 {
+  background-color: grey;
+  width: 30%;
+  height: 40px;
+}
+#carré6 {
+  background-color: orange;
+  width: 20%;
+  height: 40px;
+}
+#carré7 {
+  background-color: green;
+  width: 20%;
+  height: 40px;
+}
+#carré8 {
+  background-color: orange;
+  width: 20%;
+  height: 40px;
+}
+#carré9 {
+  background-color: black;
+  width: 100%;
+  height: 100px;
+}

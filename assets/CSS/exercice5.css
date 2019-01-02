@@ -1,0 +1,6 @@
+#table1 {
+  border-collapse: collapse; <!-- Fusionner les bordures de cellules -->
+}
+td,th {
+  border: 1px solid black;
+}
